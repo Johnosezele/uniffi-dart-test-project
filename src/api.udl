@@ -1,0 +1,6 @@
+[Custom]
+typedef string MyUuid;
+
+namespace uniffi_dart_test_lib {
+  MyUuid process_uuid(MyUuid uuid);
+};
